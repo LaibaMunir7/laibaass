@@ -3,7 +3,7 @@
 }
 
 .contact h2 {
-  color: #0077b6;
+  color:#2e3c4c;
   margin-bottom: 20px;
 }
 
@@ -34,7 +34,7 @@ input, textarea {
 }
 
 button {
-  background-color: #0077b6;
+  background-color: #2e3c4c;
   color: white;
   border: none;
   padding: 10px;
@@ -43,5 +43,5 @@ button {
 }
 
 button:hover {
-  background-color: #005f87;
+  background-color: #2262a7;
 }

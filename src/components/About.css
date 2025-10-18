@@ -1,15 +1,13 @@
 .about {
   position: relative;
-  min-height: 100vh; /* full screen height */
+  min-height: 100vh; 
   padding: 50px 20px;
   color: #fff;
   text-align: center;
 
-  /* background image covering full section */
   background: url('https://images.pexels.com/photos/4974912/pexels-photo-4974912.jpeg') no-repeat center center;
   background-size: cover;
-
-  /* dark overlay for better text readability */
+  
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -23,14 +21,14 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0,0,0,0.5); /* dark overlay */
+  background: rgba(0,0,0,0.5); 
   z-index: 0;
 }
 
 .about h2,
 .about p,
 .about .extra {
-  position: relative; /* above the overlay */
+  position: relative; 
   z-index: 1;
 }
 

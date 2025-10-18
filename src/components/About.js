@@ -23,7 +23,7 @@ export const About = () => {
         </p>
         <p>
           My goal is to build applications that not only function smoothly but also provide
-          an outstanding user experience. When I’m not coding, I love reading about tech
+          an outstanding user experience. When I am not coding, I love reading about tech
           innovations and experimenting with creative projects.
         </p>
       </div>
