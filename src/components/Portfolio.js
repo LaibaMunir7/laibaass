@@ -26,7 +26,7 @@ export const Portfolio = () => {
 
         <h2>My Projects</h2>
         <p>
-          I’ve worked on mini web projects and React apps as part of my coursework and personal learning journey.
+          I have worked on mini web projects and React apps as part of my coursework and personal learning journey.
         </p>
       </div>
     </div>
