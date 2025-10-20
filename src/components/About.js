@@ -16,11 +16,11 @@ export const About = () => {
       </p>
       <div className="extra">
         <p>
-      
-          In addition to web development, I enjoy collaborating on open-source projects,
-          participating in hackathons, and exploring UX/UI design trends.
-          I am working to stable my skills of backend development, so i acn make develop a proper website.
-        </p>
+        In addition to web development, I enjoy collaborating on open-source projects, 
+      participating in hackathons, and exploring UX/UI design trends. 
+      I am working to improve my backend development skills so I can develop complete websites.
+          </p>
+          
         <p>
           My goal is to build applications that not only function smoothly but also provide
           an outstanding user experience. When I am not coding, I love reading about tech
